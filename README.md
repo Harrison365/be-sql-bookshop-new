@@ -1,3 +1,5 @@
+test test
+
 # SQL Book Shop
 
 You have been tasked with modernising your local bookshop's inventory records! 📚
@@ -254,7 +256,7 @@ If you're up for some more challenges, have a go at some of these:
 - find out the average rating that a user has given in all of their reviews
 - list books that a user has not reviewed
 
-4. Get a list of all the unique prices that are on offer in the book table.  
+4. Get a list of all the unique prices that are on offer in the book table.
 
 ## Advanced
 
