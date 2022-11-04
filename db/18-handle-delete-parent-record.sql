@@ -6,11 +6,11 @@
 
 -- Delete a book here:
 
--- SELECT * FROM genre_book_junction;
+SELECT * FROM genre_book_junction;
 
--- DELETE FROM book_shelf WHERE title = 'Nineteen Eighty-Four: A Novel';
+DELETE FROM book_shelf WHERE title = 'Nineteen Eighty-Four: A Novel';
 
--- SELECT * FROM genre_book_junction;
+SELECT * FROM genre_book_junction;
 
 
 
