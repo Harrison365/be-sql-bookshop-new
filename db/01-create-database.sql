@@ -5,6 +5,8 @@ CREATE DATABASE my_bookshop;
 --connect to db
 \c my_bookshop
 --to run a psql file psql -f filename (> where-you-want-it-to-go)
+-- to run the shell script sh run-all.sh
+
 
 --To console.log in termiinal
 --DO $$ BEGIN
