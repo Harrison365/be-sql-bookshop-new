@@ -14,7 +14,7 @@ SELECT * FROM book_shelf WHERE release_date BETWEEN '1900-01-01' AND '1999-12-31
 
 \echo '\n Here are all the books with "The" in the title:\n'
 --Use LIKE with %word% to find strings containing word. Use iLIKE for case insensitivity 
-SELECT * FROM book_shelf WHERE title iLIKE '%the%';
+SELECT * FROM book_shelf WHERE title ILIKE '%the%';
 
 \echo '\n Here are the books sorted in alphabetical order:\n'
 
