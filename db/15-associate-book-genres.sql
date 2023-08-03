@@ -19,3 +19,5 @@ VALUES
 (10,3);
 
 SELECT * FROM genre_book_junction;
+
+
