@@ -21,3 +21,6 @@ WHERE book_shelf.book_id IS NULL;
 
 --Then add the WHERE to root out the authors with NULL book_id
 --Switch the * for auther_name becaus ethat what the question asks for.
+
+--NOTE: WHERE book_shelf.book_id = 5 is valid but = null isn't
+--You have to use IS NULL or IS NOT NULL commands 
