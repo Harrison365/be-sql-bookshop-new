@@ -1,0 +1,3 @@
+--Potential Answers
+--table and column naming is a little different
+--https://github.com/msmi1433/be-sql-bookshop/tree/main/db

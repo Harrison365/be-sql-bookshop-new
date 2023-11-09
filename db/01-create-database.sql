@@ -8,7 +8,7 @@ CREATE DATABASE my_bookshop;
 -- to run the shell script sh run-all.sh
 
 
---To console.log in termiinal
+--To console.log in termiinal (include the DO and END)
 --DO $$ BEGIN
 --   RAISE NOTICE 'Your message here';
 --END $$;
